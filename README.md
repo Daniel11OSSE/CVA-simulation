@@ -39,7 +39,7 @@ These monthly rates cover the period from **July 2000 to September 2016** and we
 
 ## 🔍 Preview
 
-<img src="preview_formatted.png" alt="CVA table preview" width="600"/>
+<img src="preview.png" alt="CVA table preview" width="600"/>
 
 ## 🧠 Author
 
